@@ -1,0 +1,20 @@
+{
+  "name": "sequelize-auto-test",
+  "version": "1.0.0",
+  "description": "sequelize-auto-test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/summer19940609/sequelize-auto-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/summer19940609/sequelize-auto-test/issues"
+  },
+  "homepage": "https://github.com/summer19940609/sequelize-auto-test#readme"
+}
